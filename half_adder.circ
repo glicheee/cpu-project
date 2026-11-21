@@ -78,7 +78,6 @@
       <a name="label" val="sum"/>
       <a name="type" val="output"/>
     </comp>
-    <comp lib="1" loc="(230,650)" name="Controlled Inverter"/>
     <comp lib="1" loc="(670,430)" name="AND Gate"/>
     <comp lib="1" loc="(680,570)" name="XOR Gate"/>
     <wire from="(220,190)" to="(220,450)"/>
