@@ -172,8 +172,8 @@
     <comp lib="0" loc="(290,550)" name="Pin">
       <a name="appearance" val="classic"/>
     </comp>
-    <comp lib="0" loc="(290,630)" name="Pin">
-      <a name="appearance" val="classic"/>
+    <comp lib="0" loc="(290,620)" name="Constant">
+      <a name="value" val="0x0"/>
     </comp>
     <comp lib="0" loc="(570,340)" name="Pin">
       <a name="appearance" val="classic"/>
@@ -216,9 +216,9 @@
     <wire from="(1620,470)" to="(1630,470)"/>
     <wire from="(290,480)" to="(370,480)"/>
     <wire from="(290,550)" to="(370,550)"/>
-    <wire from="(290,630)" to="(370,630)"/>
+    <wire from="(290,620)" to="(370,620)"/>
     <wire from="(370,480)" to="(370,530)"/>
-    <wire from="(370,570)" to="(370,630)"/>
+    <wire from="(370,570)" to="(370,620)"/>
     <wire from="(570,340)" to="(700,340)"/>
     <wire from="(590,530)" to="(700,530)"/>
     <wire from="(590,550)" to="(660,550)"/>
