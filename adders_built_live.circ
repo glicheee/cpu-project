@@ -146,53 +146,66 @@
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(1230,260)" name="Pin">
+      <a name="label" val="A3"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(1290,430)" name="Pin">
+      <a name="label" val="B3"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(1320,600)" name="Pin">
+      <a name="label" val="S2"/>
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(1630,370)" name="Pin">
+      <a name="label" val="Cout"/>
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(1630,470)" name="Pin">
+      <a name="label" val="S3"/>
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(290,480)" name="Pin">
+      <a name="label" val="A0"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(290,550)" name="Pin">
+      <a name="label" val="B0"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(290,620)" name="Constant">
       <a name="value" val="0x0"/>
     </comp>
     <comp lib="0" loc="(570,340)" name="Pin">
+      <a name="label" val="A1"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(630,510)" name="Pin">
+      <a name="label" val="B1"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(660,680)" name="Pin">
+      <a name="label" val="S0"/>
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
       <a name="type" val="output"/>
     </comp>
     <comp lib="0" loc="(900,300)" name="Pin">
+      <a name="label" val="A2"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(960,470)" name="Pin">
+      <a name="label" val="B2"/>
       <a name="appearance" val="classic"/>
     </comp>
     <comp lib="0" loc="(990,640)" name="Pin">
+      <a name="label" val="S1"/>
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
       <a name="type" val="output"/>
